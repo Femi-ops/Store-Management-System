@@ -2,7 +2,7 @@
 Automated Sales Tracking | Expense Monitoring | Product Intelligence | Built with VBA & Excel BI
 
 
-(Replace with actual repo path to your screenshot)
+[(Replace with actual repo path to your screenshot)](https://github.com/Femi-ops/Store-Management-System/blob/main/Screenshot%202025-04-20%20131619.png)
 
 📌 Project Overview
 This project features a fully automated Store Management System built in Microsoft Excel, powered by VBA (Visual Basic for Applications) for dynamic functionality and interactive BI dashboards.
