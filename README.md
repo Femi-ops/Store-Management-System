@@ -1,15 +1,7 @@
-Awesome! Here's the **refined version** of the GitHub README with your update:  
-> _"...include it as an automated store management system to track sales and expenses built with VBA codes on Excel."_
-
-This version now emphasizes the **automation aspect and the VBA integration**, making it even more impressive for potential employers, collaborators, and recruiters.
-
----
-
 # 🏬 Store Management System – Sales & Profit Dashboard  
 **Automated Sales Tracking | Expense Monitoring | Product Intelligence | Built with VBA & Excel BI**
 
-![Store Dashboard](https://github.com/your-username/your-repo/blob/main/Screenshot%202025-04-20%20131619.png)  
-*(Replace with actual repo path to your screenshot)*
+![Store Dashboard](https://github.com/Femi-ops/Store-Management-System/blob/main/Screenshot%202025-04-20%20131619.png)  
 
 ---
 
